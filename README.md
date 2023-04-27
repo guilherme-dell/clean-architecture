@@ -1,6 +1,6 @@
 # [BEXS] Desafio Bexs - API DE ROLÊS
 ## Objetivo do Desafio
-Fazer uma API simples utilizando os recursos apresentados no workshop.
+Fazer uma API simples seguindo os princípios da arquitetura limpa. O tema da API foi sorteado.
 
 ## Uso
 Para rodar a aplicação execute o comando `docker compose up`.
